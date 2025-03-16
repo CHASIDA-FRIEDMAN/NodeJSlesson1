@@ -1,0 +1,20 @@
+[
+  {
+    "code": 1,
+    "name": "aaa",
+    "type": "thriller",
+    "status": true
+  },
+  {
+    "code": 2,
+    "name": "bbb",
+    "type": "drama",
+    "status": false
+  },
+  {
+    "code": 3,
+    "name": "ccc",
+    "type": "emotion",
+    "status": false
+  }
+]

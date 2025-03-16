@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1234567,
+    "name": "nnn",
+    "type": "emotion",
+    "status": false
+  },
+  {
+    "id": 7654321,
+    "name": "hhh",
+    "type": "drama",
+    "status": false
+  },
+  {
+    "id": 1237654,
+    "name": "sss",
+    "type": "thriller",
+    "status": true
+  }
+]
